@@ -1,0 +1,10 @@
+.footer {
+  margin-bottom: 40px;
+}
+.container-footer {
+  border-top: 2px solid #f8f8f8;
+  padding-top: 50px;
+  display: grid;
+  grid-template-columns: max-content 1fr max-content;
+  gap: 40px 126px;
+}
